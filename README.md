@@ -15,7 +15,7 @@
 ---
 
 ### :zap: Step Installasi Project
-1. Clone Repository git clone https://github.com/fachrialviansyah/Final-Project-QA-Engineer.git
+1. Clone Repository git clone https://github.com/fachrialviansyah/FinalProjectQA.git
 2. Install Dependensi jalankan perintah: **./gradlew build**
 3. Running Test, jalankan perintah: **./gradlew test**
 4. Melakukan test yang hanya 1 di pilih: **./gradlew test -Dcucumber.options="--tags @regression"**
