@@ -77,11 +77,11 @@
 <img width="1329" height="668" alt="image" src="https://github.com/user-attachments/assets/6a9be125-c6c9-4f2a-8c57-232e4ebf2eea" />
 
 ### :zap: Hasil Report API Test With Github Action
-- HTML Report :arrow_right: [HTML](url)
-- JSON Report :arrow_right: [JSON](url)
+<img width="1201" height="291" alt="image" src="https://github.com/user-attachments/assets/3e7d4ef0-6cfb-4a20-9cc0-591e4e609b2c" />
 
 ### :zap: Hasil Report WEB Test With Github Action
-- HTML Report :arrow_right: [HTML](url)
-- JSON Report :arrow_right: [JSON](url)
+<img width="1288" height="318" alt="image" src="https://github.com/user-attachments/assets/1cb5af5c-3424-45c0-b6c8-ba3b49799d08" />
+
+
 
 
