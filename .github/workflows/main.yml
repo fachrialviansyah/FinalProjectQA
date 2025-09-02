@@ -16,10 +16,10 @@ jobs:
     - uses: actions/checkout@v4
     
     # setup java
-    - name: Set up JDK 11
+    - name: Set up JDK 17
     - uses: actions/setup-java@v4
       with:
-        java-version: '11'
+        java-version: '17'
         distribution: 'temurin'
 
     # install chrome browser
@@ -27,14 +27,14 @@ jobs:
       uses: browser-actions/setup-chrome@v2.1.0
 
     # setup gradlew
-    - name: Set up gradlew
-      run : chmod +x gradlew
-
+    - name: Setup gradlew
+      run: chmod +x gradlew
+      
     # Execute gradle task api
-    - name: API automation
+    - name: Execute API automation
       run : ./gradlew api
 
     # Execute gradle task web
-    - name: WEB automation
+    - name: Execute WEB automation
       run : ./gradlew web
 
