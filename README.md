@@ -71,9 +71,11 @@
 <img width="1211" height="296" alt="image" src="https://github.com/user-attachments/assets/2ed3e9fc-6e34-424b-b23e-5880f6ea942c" />
 
 ### :zap: Github Actions API
+<img width="1324" height="684" alt="image" src="https://github.com/user-attachments/assets/6655f9cd-24d8-4dc3-a770-e6308b3e12e6" />
 
 ### :zap: Github Actions WEB
-    
+<img width="1329" height="668" alt="image" src="https://github.com/user-attachments/assets/6a9be125-c6c9-4f2a-8c57-232e4ebf2eea" />
+
 ### :zap: Hasil Report API Test With Github Action
 - HTML Report :arrow_right: [HTML](url)
 - JSON Report :arrow_right: [JSON](url)
