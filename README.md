@@ -1,7 +1,8 @@
 # Final Project QA Engineer Automation at Jayjay School
-### Final Project automation testing aplikasi web https://www.saucedemo.com/v1/ dan RestAPI https://dummyapi.io/
+### Automation testing WEB:  https://www.demoblaze.com/ 
+### Automation testing API: https://dummyapi.io/
 
-### :zap: Teknologi yang digunakan
+### :zap: Teknologi yang digunakan:
 - Bahasa Pemrogramman Java
 - Aplikasi IntelliJ IDEA Community
 - Selenium (Untuk otomatisasi browser)
