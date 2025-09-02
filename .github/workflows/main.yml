@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  RestApi-test:
+  api-web-automation:
     runs-on: ubuntu-latest
 
     steps:
