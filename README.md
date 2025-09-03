@@ -65,10 +65,10 @@
 
 
 ### :zap: Hasil Report API Test With Cucumber
-<img width="1197" height="291" alt="image" src="https://github.com/user-attachments/assets/6ba413ca-969b-427c-8de4-ada1db659723" />
+<img width="1206" height="291" alt="image" src="https://github.com/user-attachments/assets/ee35ffe2-d0dd-495f-9313-59d4fe8bbea0" />
 
 ### :zap: Hasil Report WEB Test With Cucumber
-<img width="1211" height="296" alt="image" src="https://github.com/user-attachments/assets/2ed3e9fc-6e34-424b-b23e-5880f6ea942c" />
+<img width="1206" height="292" alt="image" src="https://github.com/user-attachments/assets/b5995396-d237-4c3f-98ba-92b10d9c505a" />
 
 ### :zap: Github Actions API
 <img width="1324" height="684" alt="image" src="https://github.com/user-attachments/assets/6655f9cd-24d8-4dc3-a770-e6308b3e12e6" />
