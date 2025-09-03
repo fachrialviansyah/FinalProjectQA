@@ -32,7 +32,7 @@
     │       │   │   ├── Endpoint.java
     │       │   │   ├── Models.java
     │       │   │   └── Utility.java
-    │       │   ├── pages                                               # Page Object Models (POM)
+    │       │   ├── pages                                                # Page Object Models (POM)
     │       │   │   ├── api
     │       │   │   │   └── ApiPage.java                        
     │       │   │   └── web
@@ -42,20 +42,20 @@
     │       │   │   │   ├── HomePage.java                        
     │       │   │   │   ├── Login.java                        
     │       │   │   │   └── Register.java                        
-    │       │   ├── stepdef                                               # Step Definitions
+    │       │   ├── stepdef                                               # Step Definitions API & WEB
     │       │   │   ├── api
     │       │   │   │   └── ApiStep.java                        
     │       │   │   ├── web
     │       │   │   │   └── WebStep.java                        
     │       │   │   └── Hooks.java
-    │       │   ├── steprun                                               # Step Running Test
+    │       │   ├── steprun                                               # Step Running API & WEB Test
     │       │   │   ├── APITestRun
     │       │   │   │   └── ApiTest.java                        
     │       │   │   └── WebTestRun
     │       │   │   │   └── WebTest.java                        
     │       └── resources
-    │           └── api.feature                                         # Feature Files API  (BDD)
-    │           └── web.feature                                         # Feature Files WEB  (BDD)
+    │           └── api.feature                                         # Feature Files API (Behavior-Driven Development - BDD)
+    │           └── web.feature                                         # Feature Files WEB (Behavior-Driven Development - BDD)
     ├── .gitignore                                                      # File untuk mengecualikan file tertentu dari git
     ├── build.gradle                                                    # File konfigurasi Gradle
     ├── gradlew                                                         # Wrapper untuk Gradle (Linux/Mac)
