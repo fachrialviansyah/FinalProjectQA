@@ -2,7 +2,7 @@
 ### Automation testing WEB:  https://www.demoblaze.com/ 
 ### Automation testing API: https://dummyapi.io/
 
-### :zap: Teknologi yang digunakan:
+### 🧰 Teknologi yang digunakan:
 - Bahasa Pemrogramman Java
 - Aplikasi IntelliJ IDEA Community
 - Selenium (Untuk otomatisasi browser)
@@ -14,7 +14,7 @@
 
 ---
 
-### :zap: Step Installasi Project
+### 📌 Step Installasi Project
 1. Clone Repository git clone https://github.com/fachrialviansyah/FinalProjectQA.git
 2. Install Dependensi jalankan perintah: **./gradlew build**
 3. Running Test, jalankan perintah: **./gradlew test**
@@ -22,7 +22,7 @@
 5. View report WEB dengan format html: **report/web/report-web.html**
 6. View report API dengan format html: **report/api/report-api.html**
 
-### :zap: Struktur Final Project
+### 📁 Struktur Final Project
     │── src 
     │   └── test
     │       ├── java
